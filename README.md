@@ -1,5 +1,5 @@
 
-# Social Sentinel
+# Social Sentinel 
 
 A platform developed for Police Department where police can gather data about an individual from different social media sites that is publicly available.
 
